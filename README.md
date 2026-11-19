@@ -17,5 +17,5 @@ With a C compiler installed, run these commands from the repository folder:
 2) ./rle_demo
 
 ## Slides and resources
-1) [View presentation slides, PDF] https://github.com/nargizyermenova/Checkoff_3/blob/89c051d40c00e0aaa6e762d0bcbd445d16b996cd/Run-length%20encoding.pdf
-2) [AI exploration conversation] https://chatgpt.com/share/6afefaa4-c7e4-83ea-80a6-cf61c564f299
+1) [View presentation slides, PDF](https://github.com/nargizyermenova/Checkoff_3/blob/89c051d40c00e0aaa6e762d0bcbd445d16b996cd/Run-length%20encoding.pdf)
+2) [AI exploration conversation](https://chatgpt.com/share/6afefaa4-c7e4-83ea-80a6-cf61c564f299)
