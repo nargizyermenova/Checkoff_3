@@ -17,4 +17,5 @@ With a C compiler installed, run these commands from the repository folder:
 2) ./rle_demo
 
 ## Slides and resources
+[View presentation slides, PDF]
 [AI exploration conversation] https://chatgpt.com/share/6afefaa4-c7e4-83ea-80a6-cf61c564f299
