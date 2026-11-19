@@ -28,7 +28,7 @@ int encode(unsigned char img[8][8], int by_col, FILE *out) {
 }
 
 int main(void) {
-  unsigned char [8][8];
+  unsigned char img[8][8];
 
   // Make alternating black and white rows
   for (int r = 0; r < 8; r++) {
